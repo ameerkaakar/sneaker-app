@@ -1,4 +1,4 @@
-# kickstarter
+# sneaker app
 
 A new Flutter project.
 
